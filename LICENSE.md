@@ -1,6 +1,6 @@
 The MIT License
 
-Copyright (c) 2015-2019 Just-Some-Bots (https://github.com/Discord-bot)
+Copyright (c) 2015-2019 Just-Some-Bots (https://github.com/Centi-Code/Discord-bot)
 
 
 
